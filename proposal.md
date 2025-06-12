@@ -16,7 +16,7 @@
 *La empresa consta de profesionales de la salud. Estos organizan a mano sus pacientes, horarios y realizan las modificaciones a los mismos de manera totalmente autónoma. Se nos solicita realizar un sistema de autogestión para facilitar dicha tarea y a la vez permitir a otros pacientes conocer a sus profesionales vía web.*
 
 ### Modelo
-![imagen del modelo](DER.png)
+![imagen del modelo](DER.drawio.png)
 
 * [Draw.io](https://drive.google.com/file/d/1F_wJNXyFcS-_o9hZX_lNe_WDuKzT5CCj/view?usp=sharing)
 
