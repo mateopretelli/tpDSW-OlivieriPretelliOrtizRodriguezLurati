@@ -9,7 +9,7 @@
 * 53001 - Olivieri Luca
 
 ### Repositorios
-* [Full-stack](http://hyperlinkToGihubOrGitlab) *A definir*
+* [Full-stack](https://github.com/Genchu5/DSW-Autogestora-de-turnos.git) 
 
 ## Tema
 ### Descripción
