@@ -18,7 +18,7 @@
 ### Modelo
 ![imagen del modelo](DER.drawio.png)
 
-* [Draw.io](https://drive.google.com/file/d/1F_wJNXyFcS-_o9hZX_lNe_WDuKzT5CCj/view?usp=sharing)
+* [Draw.io](https://app.diagrams.net/#G1vIZZ-KLhW0B18fT-SZHTOqqv-LPNIAcL#%7B%22pageId%22%3A%22KXq-Thh_YQ96jjohNXcZ%22%7D)
 
 ## Alcance Funcional 
 
