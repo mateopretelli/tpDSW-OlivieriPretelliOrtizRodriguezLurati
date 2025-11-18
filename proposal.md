@@ -46,4 +46,4 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Otros|* Recordatorio de turnos vía mail<br>* Validación de cuenta vía mail<br>* Notificación de cancelación de turno vía mail<br>* ChatBot on Inteligencia Artificial para agendar turnos<br>|
+|Otros|* Recordatorio de turnos vía mail<br>* Validación de cuenta vía mail<br>* Notificación de cancelación de turno vía mail<br>* ChatBot on Inteligencia Artificial para agendar turnos|
