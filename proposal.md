@@ -38,7 +38,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Paciente<br>2. CRUD Profesional<br>3. CRUD Administrador<br>4. CRUD Consultorio<br>5. CRUD Horario<br>6. CRUD Turno simple<br>7. CRUD Talleres<br>|
-|Listado<br>+<br>detalle| 1. Historia clínica de paciente => detalle CRUD turno, mostrando todas las observaciones registradas en turnos asistidos por paciente, indicando fecha y hora del turno.<br><br>2. Listado de consultorios => detalle CRUD Consultorios|
+|Listado<br>+<br>detalle| 1. Historia clínica de paciente => detalle CRUD turno, mostrando todas las observaciones registradas en turnos asistidos por paciente, indicando fecha y hora del turno.<br>2. Listado de consultorios => detalle CRUD Consultorios|
 |CUU/Epic|*A definir*|
 
 
@@ -46,4 +46,4 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Otros|* Recordatorio de turnos vía mail<br>* Validación de cuenta vía mail<br>* Notificación de cancelación de turno vía mail<br>* ChatBot on Inteligencia Artificial para agendar turnos|
+|Otros|* Recordatorio de turnos vía mail<br>* Validación de cuenta vía mail<br>* Notificación de cancelación de turno vía mail<br>* ChatBot con Inteligencia Artificial para agendar turnos|
