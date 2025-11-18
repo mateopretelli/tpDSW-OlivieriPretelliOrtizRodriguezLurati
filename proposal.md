@@ -18,7 +18,7 @@
 ### Modelo
 ![imagen del modelo](https://github.com/user-attachments/assets/cc31d9d7-8bc0-431b-b6b3-af52773bf043)
 
-* [Draw.io](https://app.diagrams.net/#G1vIZZ-KLhW0B18fT-SZHTOqqv-LPNIAcL#%7B%22pageId%22%3A%22KXq-Thh_YQ96jjohNXcZ%22%7D)
+* [Draw.io]([https://app.diagrams.net/#G1vIZZ-KLhW0B18fT-SZHTOqqv-LPNIAcL#%7B%22pageId%22%3A%22KXq-Thh_YQ96jjohNXcZ%22%7D](https://app.diagrams.net/#G1vIZZ-KLhW0B18fT-SZHTOqqv-LPNIAcL#%7B%22pageId%22%3A%22eKS7SbHX9Nti7IfRPMdn%22%7D))
 
 ## Alcance Funcional 
 
