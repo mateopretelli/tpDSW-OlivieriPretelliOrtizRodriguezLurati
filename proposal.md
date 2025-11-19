@@ -1,4 +1,4 @@
-# Propuesta TP DSW
+<img width="534" height="437" alt="image" src="https://github.com/user-attachments/assets/fdea1ac4-4a48-41cd-a174-602368122a07" /><img width="534" height="437" alt="image" src="https://github.com/user-attachments/assets/a7543a08-c29c-473a-a5e1-62d923613da9" /># Propuesta TP DSW
 
 ## Grupo
 ### Integrantes
@@ -28,18 +28,18 @@
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Paciente<br>2. CRUD Profesional<br>3. CRUD Administrador<br>4.CRUD Consultorio<br>5. CRUD Localidad|
-|CRUD dependiente|1. CRUD Sala {depende de} CRUD Consultorio.<br>2.CRUD Horario {depende de} CRUD Profesional y CRUD Sala<br>2. CRUD Turno {depende de} CRUD Horario|
-|Listado<br>+<br>detalle| 1. Listado de profesionales para reservar un turno => detalle CRUD profesionales<br> 2. Listado de turnos disponibles del profesional para reservar turnos => detalle CRUD turnos mostrando tipo de turno, día y horario<br> 3. Listado de turnos para informar al profesional => detalle CRUD turnos mostrando tipo de turno, día, hora y consultorio.|
-|CUU/Epic|1. Agendar turnos<br>2. Aceptar turnos<br>3. Cargar horario de profesional|
+|CRUD simple|1. CRUD Paciente<br>2. CRUD Profesional<br>3. CRUD Administrador<br>4.CRUD Consultorio<br>5. CRUD Localidad<br>5. CRUD Provincia|
+|CRUD dependiente|1. CRUD Sala {depende de} CRUD Consultorio.<br>2.CRUD Horario {depende de} CRUD Profesional y CRUD Sala<br>2. CRUD Turno {depende de} CRUD Horario<br>2. CRUD Diagnóstico {depende de} CRUD Turno|
+|Listado<br>+<br>detalle| 1. Listado de profesionales para reservar un turno => detalle CRUD profesionales<br> 2. Listado de turnos disponibles del profesional para reservar turnos => detalle CRUD turnos mostrando tipo de turno, día y horario<br> 3. Listado de turnos para informar al profesional => detalle CRUD turnos mostrando tipo de turno, día, hora y consultorio.<br> 4.Listado de provincias existentes => detalle CRUD provincia mostrando Nombre e ID de provincia. <br> 5. Listado de Localidades existentes => Detalle CRUD Localidades con su nombre, ID y provincia <br> 6. Listado de Consultorios existentes => detalle CRUD consultorios con nombre, localidad, provincia, ID, hora de apertura y hora de cierre del consultorio <br> 7.Listado de salas =>  detalle CRUD salas con nombre e ID de sala, consultorio y localidad a la que pertenece<br> 8. Listado de usuarios => detalle CRUD persona con email, nombre, apellido tipo y nro doc, telefono, tipo de usuario y especialidad si es profesional.|
+|CUU/Epic|1. Agendar turnos<br>2. Aceptar turnos<br>3. Cargar horario de profesional<br>4. Crear/modificar/deshabilitar provincia <br> 5. Crear/modificar/deshabilitar Localidad <br>6. Crear/modificar/deshabilitar consultorio <br> 7. Crear/modificar/deshabilitar Sala <br>8. Registrar usuario normal <br>9. Registrar profesional <br> 10. Modificar usuario <br> 11. Cancelar turnos|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Paciente<br>2. CRUD Profesional<br>3. CRUD Administrador<br>4. CRUD Consultorio<br>5. CRUD Horario<br>6. CRUD Turno simple<br>7. CRUD Talleres<br>|
-|Listado<br>+<br>detalle| 1. Historia clínica de paciente => detalle CRUD turno, mostrando todas las observaciones registradas en turnos asistidos por paciente, indicando fecha y hora del turno.<br>2. Listado de consultorios => detalle CRUD Consultorios|
-|CUU/Epic|*A definir*|
+|Listado<br>+<br>detalle| 1. Historia clínica de paciente => detalle CRUD diagnóstico, mostrando todas las observaciones registradas en turnos asistidos por paciente, indicando fecha y hora del turno.<br>2. Listado de consultorios => detalle CRUD Consultorios|
+|CUU/Epic|1. Modificar turnos <br> 2. Eliminar un unico paciente de un taller <br> 3. Crear turnos como profesional <br> 4. Añadir paciente a un turno como profesional <br> 5. Cargar/modificar/eliminar diagnóstico de un paciente|
 
 
 ### Alcance Adicional Voluntario
