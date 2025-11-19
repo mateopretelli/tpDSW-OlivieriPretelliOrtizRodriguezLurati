@@ -1,4 +1,4 @@
-<img width="534" height="437" alt="image" src="https://github.com/user-attachments/assets/fdea1ac4-4a48-41cd-a174-602368122a07" /><img width="534" height="437" alt="image" src="https://github.com/user-attachments/assets/a7543a08-c29c-473a-a5e1-62d923613da9" /># Propuesta TP DSW
+# Propuesta TP DSW
 
 ## Grupo
 ### Integrantes
